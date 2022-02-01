@@ -1,0 +1,52 @@
+.box{
+    margin: 5px;
+    display: inline-block;
+    justify-content: space-between;
+    text-align: left;
+    color: white;
+}
+.Harsh{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(224, 37, 62);;
+}
+.Harshita{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(50, 97, 60, 0.849);
+}
+.Dhruv{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(163, 21, 163);
+}
+.Tarun{
+    width: 150px;
+    height: 150px;
+    background-color: lightskyblue;
+}
+.Akanksha{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(85, 223, 85);
+}
+.Prakash{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+.Dhano{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+}
+.Dinesh{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+}
+.Kalyani{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(224, 37, 62);
+}

@@ -1,0 +1,38 @@
+h4 {
+  margin-left: 15px;
+}
+.box {
+  width: 125px;
+  height: 90px;
+  background-color: red;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  border: 3px solid black;
+}
+.line2 {
+  display: inline-block;
+  margin-right: 10px;
+}
+.A {
+  border: 2px solid black;
+}
+.B {
+  border: 2px dashed black;
+}
+.C {
+  border: 2px dotted black;
+}
+.D {
+  border: none;
+}
+.line3 {
+  display: inline-block;
+  margin-right: 10px;
+}
+.final {
+  border-right: 6px solid grey;
+  border-bottom: 6px solid rgb(200, 200, 36);
+  border-left: 6px solid green;
+  border-top: 6px solid darkblue;
+  box-shadow: 0px 0px 0px 5px rgb(138, 59, 172)
+}
